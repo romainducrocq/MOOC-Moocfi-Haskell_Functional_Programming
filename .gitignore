@@ -1,0 +1,6 @@
+haskell-mooc/
+
+dist-newstyle/
+score.json
+
+.idea
